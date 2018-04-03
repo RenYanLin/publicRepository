@@ -10,6 +10,7 @@ import android.util.Log;
 
 /**
  * Created by ryl on 2016/10/31.
+ * 2017
  */
 
 public abstract class BaseActivity extends FragmentActivity {
